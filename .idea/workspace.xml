@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76e37ebc-251d-4123-aede-ddee634057ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/migrations/20221026062414_create_users_table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migrations/20221026062414_create_users_table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/users/Users.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/Users.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/users/Users.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/Users.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/users/usersRouters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/usersRouters.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <workItem from="1666936958754" duration="7336000" />
       <workItem from="1666945785058" duration="4145000" />
       <workItem from="1666950159670" duration="2914000" />
-      <workItem from="1666959433572" duration="3042000" />
+      <workItem from="1666959433572" duration="3513000" />
     </task>
     <servers />
   </component>
