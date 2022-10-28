@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76e37ebc-251d-4123-aede-ddee634057ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/Users.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/Users.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/usersRouters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/knexConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/knexConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/knexfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/knexfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/20221026062414_create_users_table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migrations/20221026062414_create_users_table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/seeds/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faker/faker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/faker/faker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/migrations/20221026062414_create_users_table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migrations/20221026062414_create_users_table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/Users.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/Users.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/Users.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/Users.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/usersRouters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/usersRouters.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +34,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.18.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.0&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/vladimir/Desktop/Work/Internship/film-react&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -68,7 +64,12 @@
       <workItem from="1666734866181" duration="738000" />
       <workItem from="1666763802403" duration="17197000" />
       <workItem from="1666816897369" duration="62000" />
-      <workItem from="1666850258589" duration="10012000" />
+      <workItem from="1666850258589" duration="18243000" />
+      <workItem from="1666904613012" duration="5000" />
+      <workItem from="1666936958754" duration="7336000" />
+      <workItem from="1666945785058" duration="4145000" />
+      <workItem from="1666950159670" duration="2914000" />
+      <workItem from="1666959433572" duration="3042000" />
     </task>
     <servers />
   </component>
